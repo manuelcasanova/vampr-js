@@ -13,6 +13,7 @@ describe("Vampire", function() {
   describe("addOffspring", () => {
 
     let offspring1;
+  
     let offspring2;
     beforeEach(() => {
       offspring1 = new Vampire("andrew");
